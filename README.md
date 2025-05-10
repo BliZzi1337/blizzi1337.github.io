@@ -13,7 +13,7 @@ Hier findest du nützliche Tools, Downloads und Infos rund um meine Projekte. Di
 ## 🔗 Live-Version
 
 📍 **Website:** [https://blizzi1337.github.io](https://blizzi1337.github.io)
-📍 **Discord Bot:** [https://bot.blizzi1337.de]([https://blizzi1337.github.io](https://bot.blizzi1337.de))
+📍 **Discord Bot:** [https://bot.blizzi1337.de](https://bot.blizzi1337.de)
 
 ---
 
